@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 
 ## 🧑‍💻 About Me
 
-- Backend programmer passionate about technology, mountains, and philosophy.
+- Backend (but sometimes full-stack) programmer passionate about technology, mountains, and philosophy.
 - I enjoy continuous learning and personal growth.
 - Currently looking for a job as a developer.
 
