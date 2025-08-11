@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 
 ## 💡 Knowledge
 
-- Integrate AI in web applications.
+- Integrating AI into web applications.
 - RESTful API design
 - Microservices
 - MCP Server 
