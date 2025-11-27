@@ -31,11 +31,13 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 - Microservices
 - MCP Server 
 - Hexagonal architecture
+- Software Architecture
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hagakure)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:pablohayabusa93@gmail.com)
+
 
 ---
 
