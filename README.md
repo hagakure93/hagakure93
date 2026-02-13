@@ -44,12 +44,13 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 
 ## 💡 Knowledge
 
+- End-to-end software planning and development experience.
+- Direct client interaction and stakeholder management.
+- Skilled in collaborative work within development teams.
 - Integrating AI into web applications.
-- RESTful API design
+- RESTful API design.
 - Microservices
-- MCP Server 
-- Hexagonal architecture
-- Software Architecture
+- Hexagonal architecture & Software Architecture.
 
 ## 📫 Contact
 
