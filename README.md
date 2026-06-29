@@ -19,6 +19,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F23?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Chroma DB](https://img.shields.io/badge/-Chroma%20DB-52adc8?style=flat-square&logo=databricks&logoColor=white)
+![QDRANT](https://img.shields.io/badge/-QDRANT-41A0DF?style=flat-square&logo=qdrant&logoColor=white)
 
 <!-- Frontend & Mobile -->
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -26,6 +27,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 <!-- Java Ecosystem -->
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
