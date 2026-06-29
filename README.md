@@ -4,6 +4,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 
 ## 🧑‍💻 About Me
 
+- **AI Developer** with expertise in building RAG (Retrieval Augmented Generation) systems, generative AI applications, and Machine Learning solutions.
 - Full-Stack developer & AI engineer passionate about technology, mountains, and philosophy.
 - I enjoy continuous learning and personal growth.
 - Currently working as software developer in DSA.
