@@ -18,6 +18,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F23?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Chroma DB](https://img.shields.io/badge/-Chroma%20DB-52adc8?style=flat-square&logo=databricks&logoColor=white)
 ![QDRANT](https://img.shields.io/badge/-QDRANT-41A0DF?style=flat-square&logo=qdrant&logoColor=white)
