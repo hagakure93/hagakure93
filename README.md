@@ -48,7 +48,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 
 ## 💡 Knowledge
 
-- **IA Developer / Gen AI & Machine Learning, RAG Systems**
+- **AI Developer / Gen AI & Machine Learning, RAG Systems**
 - End-to-end software planning and development experience.
 - Direct client interaction and stakeholder management.
 - Skilled in collaborative work within development teams.
