@@ -48,16 +48,17 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 
 ## 💡 Knowledge
 
-- **AI Developer / Gen AI & Machine Learning, RAG Systems**
-- End-to-end software planning and development experience.
-- Direct client interaction and stakeholder management.
-- Skilled in collaborative work within development teams.
-- Integrating AI into web applications.
-- AI testing
-- Clean Architecture and software design best practices.
-- Development best practices (testing, CI/CD, and code review).
-- Workflow with Claude Code and code-oriented agents, leveraging compound engineering for agent orchestration.
-- RESTful API design.
+- **AI Developer — Generative AI & Machine Learning**
+- Retrieval-Augmented Generation (RAG) systems
+- AI testing and evaluation
+- Clean Architecture and software design best practices
+- Development best practices (testing, CI/CD, and code review)
+- Workflow with Claude Code and code-oriented agents, leveraging compound engineering for agent orchestration
+- Integrating AI into web applications
+- End-to-end software planning and development experience
+- Direct client interaction and stakeholder management
+- Skilled in collaborative, cross-functional development teams
+- RESTful API design
 - Microservices
 - Hexagonal architecture & Software Architecture.
 
