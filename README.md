@@ -54,6 +54,9 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 - Skilled in collaborative work within development teams.
 - Integrating AI into web applications.
 - AI testing
+- Clean Architecture and software design best practices.
+- Development best practices (testing, CI/CD, and code review).
+- Workflow with Claude Code and code-oriented agents, leveraging compound engineering for agent orchestration.
 - RESTful API design.
 - Microservices
 - Hexagonal architecture & Software Architecture.
