@@ -23,6 +23,14 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 ![Chroma DB](https://img.shields.io/badge/-Chroma%20DB-52adc8?style=flat-square&logo=databricks&logoColor=white)
 ![QDRANT](https://img.shields.io/badge/-QDRANT-41A0DF?style=flat-square&logo=qdrant&logoColor=white)
 
+<!-- Machine Learning & MLOps -->
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+
 <!-- Frontend & Mobile -->
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
