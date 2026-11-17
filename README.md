@@ -48,7 +48,7 @@ Welcome to my GitHub profile! Here you can find a bit about me, my skills, and h
 
 ## 💡 Knowledge
 
-- **AI Developer — Generative AI & Machine Learning**
+- **AI Engineer — Generative AI & Machine Learning**
 - Retrieval-Augmented Generation (RAG) systems
 - AI testing and evaluation
 - Clean Architecture and software design best practices
